@@ -4,7 +4,7 @@ Hi 👋 My name is Huy Vo
 Data Scientist and ML Engineer
 ------------------------------
 
-A data scientist with 2 years of experience in working and researching Vision Language Modelling and Document AI. I'm interested in using ML and Data Science in solving business problem
+A data scientist with 4 years of experience in working and researching Vision Language Modelling and Document AI. I'm interested in using ML and Data Science in solving business problem
 
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [Portfolio](http://sitloboi2012.github.io/Curriculum-Vitae/)
