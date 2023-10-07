@@ -9,8 +9,8 @@ A data scientist with 4 years of experience in working and researching Vision La
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [Portfolio](http://sitloboi2012.github.io/Curriculum-Vitae/)
 * ✉️  You can contact me at [huyvo6812@gmail.com](mailto:huyvo6812@gmail.com)
-* 🚀  I'm currently working on [Key Information Extraction from Complex Document](http://microsoft.com/en-us/research/project/document-ai/)
-* 🧠  I'm learning how to deploy and putting ML into production
+* 🚀  I'm currently working on [Natural Language Processing and Multimodal Modelling](http://microsoft.com/en-us/research/project/document-ai/)
+* 🧠  I'm learning how to working with human better
 * 🤝  I'm open to collaborating on anything related to Vision Language Modelling and Document AI
 
 ### Skills
