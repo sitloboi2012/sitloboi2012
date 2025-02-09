@@ -1,16 +1,16 @@
-Hi 👋 My name is Huy Vo
+Hi 👋 My name is Huy (Henry) Vo
 =======================
 
 Data Scientist and ML Engineer
 ------------------------------
 
-A data scientist with 4 years of experience in working and researching Vision Language Modelling and Document AI. I'm interested in using ML and Data Science in solving business problem
+A highly motivated AI/Machine Learning Engineer with over three years of experience designing, deploying, and maintaining machine learning systems, specializing in Natural Language Processing, Multi-modal Machine Learning, and Large Language Models. I possess extensive experience working with leading machine learning frameworks, including PyTorch, Keras, HuggingFace Transformers, and Scikit-learn. I am passionate about leveraging machine learning to drive digital transformation and solve complex business challenges.
 
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [Portfolio](http://sitloboi2012.github.io/Curriculum-Vitae/)
 * ✉️  You can contact me at [huyvo6812@gmail.com](mailto:huyvo6812@gmail.com)
 * 🚀  I'm currently working on [Natural Language Processing and Multimodal Modelling](http://microsoft.com/en-us/research/project/document-ai/)
-* 🧠  I'm learning how to working with human better
+* 🧠  I'm learning how to work with human better
 * 🤝  I'm open to collaborating on anything related to Vision Language Modelling and Document AI
 
 ### Skills
