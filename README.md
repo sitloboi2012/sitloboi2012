@@ -9,8 +9,8 @@ A highly motivated AI/Machine Learning Engineer with over three years of experie
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [Portfolio](http://sitloboi2012.github.io/Curriculum-Vitae/)
 * ✉️  You can contact me at [huyvo6812@gmail.com](mailto:huyvo6812@gmail.com)
-* 🚀  I'm currently working on [Natural Language Processing and Multimodal Modelling](http://microsoft.com/en-us/research/project/document-ai/)
-* 🧠  I'm learning how to work with human better
+* 🚀  I'm currently working on [Natural Language Processing and Multimodal Modelling](http://microsoft.com/en-us/research/project/document-ai/), Agentic AI and Autonomous Agent
+* 🧠  I'm learning how to work with humans better
 * 🤝  I'm open to collaborating on anything related to Vision Language Modelling and Document AI
 
 ### Skills
